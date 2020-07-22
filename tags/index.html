@@ -546,29 +546,20 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             <div class="tag-chips">
                 
                 
-                <a href="/tags/Hexo/" title="Hexo: 1">
+                <a href="/tags/coding/" title="coding: 3">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="Hexo" style="background-color: #F9EBEA;">Hexo
-                        <span class="tag-length">1</span>
+                            data-tagname="coding" style="background-color: #F9EBEA;">coding
+                        <span class="tag-length">3</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/Github/" title="Github: 1">
+                <a href="/tags/题解/" title="题解: 10">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="Github" style="background-color: #F5EEF8;">Github
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/tags/博客/" title="博客: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            data-tagname="博客" style="background-color: #D5F5E3;">博客
-                        <span class="tag-length">1</span>
+                            data-tagname="题解" style="background-color: #F5EEF8;">题解
+                        <span class="tag-length">10</span>
                     </span>
                 </a>
                 
@@ -596,7 +587,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"Hexo","weight":1,"link":"/tags/Hexo/"},{"text":"Github","weight":1,"link":"/tags/Github/"},{"text":"博客","weight":1,"link":"/tags/博客/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"coding","weight":3,"link":"/tags/coding/"},{"text":"题解","weight":10,"link":"/tags/题解/"}], {
         autoResize: true
     });
 </script>
@@ -607,10 +598,10 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         <footer class="page-footer bg-color">
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">
-            Copyright&copy; 2019 洪卫. 
+            Copyright&copy; 2020 Mysterious_bird. 
 
             <br>
-            <span id="sitetime"></span><span class="my-face">ღゝ◡╹)ノ♡</span>
+            <span id="sitetime"></span><span class="my-face"></span>
             <br>
 
             
@@ -630,7 +621,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
             
                 &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">1.2k</span> 字
+                <span class="white-color">6.4k</span> 字
             
 
             
@@ -697,7 +688,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         seconds - 0-59之间的整数，做为date对象的秒数
         microseconds - 0-999之间的整数，做为date对象的毫秒数 */
 
-        var t1 = Date.UTC(2019, 08, 10, 00, 00, 00); //北京时间2019-8-1 00:00:00
+        var t1 = Date.UTC(2020, 02, 17, 00, 00, 00); //北京时间2019-8-1 00:00:00
         var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
         var diff = t2 - t1;
         var diffYears = Math.floor(diff / years);

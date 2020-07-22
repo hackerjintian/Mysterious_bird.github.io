@@ -5,9 +5,9 @@
   <subtitle>好想爱这个世界啊</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://hackerjintian.github.io/"/>
-  <updated>2020-03-11T08:55:18.000Z</updated>
-  <id>https://hackerjintian.github.io/</id>
+  <link href="https://Mysteriousbird.github.io/"/>
+  <updated>2020-07-15T03:21:12.993Z</updated>
+  <id>https://Mysteriousbird.github.io/</id>
   
   <author>
     <name>Mysterious_bird</name>
@@ -17,32 +17,237 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客开源</title>
-    <link href="https://hackerjintian.github.io/2019/08/27/blog-open-source/"/>
-    <id>https://hackerjintian.github.io/2019/08/27/blog-open-source/</id>
-    <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2020-03-11T08:55:18.000Z</updated>
+    <title>STL之queue</title>
+    <link href="https://Mysteriousbird.github.io/2020/06/23/stl-zhi-queue/"/>
+    <id>https://Mysteriousbird.github.io/2020/06/23/stl-zhi-queue/</id>
+    <published>2020-06-22T16:00:00.000Z</published>
+    <updated>2020-07-15T03:21:12.993Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot; title=&quot;效果演示&quot;&gt;&lt;/a&gt;效果演示&lt;/h1&gt;&lt;p&gt;&lt;img
-        
-      
+      &lt;h2 id=&quot;queue&quot;&gt;&lt;a href=&quot;#queue&quot; class=&quot;headerlink&quot; title=&quot;$ queue $&quot;&gt;&lt;/a&gt;$ queue $&lt;/h2&gt;
     
     </summary>
     
-      <category term="软件安装与配置" scheme="https://hackerjintian.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF522B 【Photo to Remember】</title>
+    <link href="https://Mysteriousbird.github.io/2020/05/13/ti-jie-cf522b-photo-to-remember/"/>
+    <id>https://Mysteriousbird.github.io/2020/05/13/ti-jie-cf522b-photo-to-remember/</id>
+    <published>2020-05-12T16:00:00.000Z</published>
+    <updated>2020-05-13T11:20:44.305Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;del&gt;亿&lt;/del&gt;堆人排队拍照，然后每个人出去一下，问除了出去的人，队伍的最大面积是多少&lt;/p&gt;
+    
+    </summary>
     
     
-      <category term="Hexo" scheme="https://hackerjintian.github.io/tags/Hexo/"/>
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
     
-      <category term="Github" scheme="https://hackerjintian.github.io/tags/Github/"/>
+  </entry>
+  
+  <entry>
+    <title>Python初体验</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/28/python-chu-ti-yan/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/28/python-chu-ti-yan/</id>
+    <published>2020-04-27T16:00:00.000Z</published>
+    <updated>2020-05-01T06:01:12.308Z</updated>
     
-      <category term="博客" scheme="https://hackerjintian.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <summary type="html">
+    
+      &lt;h1 id=&quot;关于Python：&quot;&gt;&lt;a href=&quot;#关于Python：&quot; class=&quot;headerlink&quot; title=&quot;关于Python：&quot;&gt;&lt;/a&gt;关于Python：&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF347A 【Difference Row】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/27/ti-jie-cf347a-difference-row/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/27/ti-jie-cf347a-difference-row/</id>
+    <published>2020-04-26T16:00:00.000Z</published>
+    <updated>2020-04-27T10:18:01.250Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;del&gt;&lt;strong&gt;大大大大大大大水题&lt;/strong&gt;&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;略加思考一下就行了&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF734B 【Anton and Digits】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf734b-anton-and-digits/</id>
+    <published>2020-04-13T16:00:00.000Z</published>
+    <updated>2020-04-27T09:49:26.763Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;题目分析：&quot;&gt;&lt;a href=&quot;#题目分析：&quot; class=&quot;headerlink&quot; title=&quot;题目分析：&quot;&gt;&lt;/a&gt;题目分析：&lt;/h4&gt;&lt;p&gt;这题的题目可能有点难理解，其实就是给你k2个2，k3个3，k5个5，k6个6，让你把这些数组成256和32，但是组成的256和32的个数不能超过题目里的样例，然后要求组成的数的和最大&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF902A 【Visiting a Friend】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/14/ti-jie-cf902a-visiting-a-friend/</id>
+    <published>2020-04-13T16:00:00.000Z</published>
+    <updated>2020-04-15T09:34:00.474Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;此题的思路就是桶排序（也叫小学生排序）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>STL之vector</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/11/stl-zhi-vector/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/11/stl-zhi-vector/</id>
+    <published>2020-04-10T16:00:00.000Z</published>
+    <updated>2020-04-28T09:34:25.590Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;vector&quot;&gt;&lt;a href=&quot;#vector&quot; class=&quot;headerlink&quot; title=&quot;vector&quot;&gt;&lt;/a&gt;vector&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="coding" scheme="https://Mysteriousbird.github.io/tags/coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF701B 【Cells Not Under Attack】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf701b-cells-not-under-attack/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf701b-cells-not-under-attack/</id>
+    <published>2020-04-10T12:56:30.000Z</published>
+    <updated>2020-04-27T09:49:42.411Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;题目分析：&quot;&gt;&lt;a href=&quot;#题目分析：&quot; class=&quot;headerlink&quot; title=&quot;题目分析：&quot;&gt;&lt;/a&gt;题目分析：&lt;/h4&gt;&lt;p&gt;这题是给出一个大小为n*n的棋盘，然后在上面放上m个“车”，每个“车”的坐标为Xi和Yi，要你分别算出&lt;strong&gt;各个棋子&lt;/strong&gt;放上去后棋盘上还有多少个&lt;strong&gt;安全位置&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF450A 【Jzzhu and Children】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf450a-jzzhu-and-children/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-04-27T10:17:52.283Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;前置知识：&quot;&gt;&lt;a href=&quot;#前置知识：&quot; class=&quot;headerlink&quot; title=&quot;前置知识：&quot;&gt;&lt;/a&gt;前置知识：&lt;/h4&gt;&lt;p&gt;我们在这题用到的算法是STL中的queue&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF474A 【Keyboard】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf474a-keyboard/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-04-27T09:50:17.423Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这道题其实是一道&lt;strong&gt;大水题&lt;/strong&gt;，但是本蒟蒻一开始竟然昏了头，手敲出每一个的前面一项或后面一项&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF581B 【Luxurious Houses】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf581b-luxurious-houses/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-04-27T09:50:10.037Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h3&gt;&lt;p&gt;给你n栋房子，问你第i栋房子要再搭几层才能比它后面所有的房子高 &lt;strong&gt;（注意：是要严格大于，不能等于）&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF681B 【Economy Game】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf681b-economy-game/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf681b-economy-game/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-04-27T09:49:52.476Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h4&gt;&lt;p&gt;这题给你一个n (1&amp;lt;=n&amp;lt;=10^9)让你判断是否有a*1234567+b*123456+c*1234=n的方法（a、b、c皆为正整数）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解 CF748A 【Santa Claus and a Place in a Class】</title>
+    <link href="https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/"/>
+    <id>https://Mysteriousbird.github.io/2020/04/10/ti-jie-cf748a-santa-claus-and-a-place-in-a-class/</id>
+    <published>2020-04-09T16:00:00.000Z</published>
+    <updated>2020-04-27T09:49:16.879Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;题目解析：&quot;&gt;&lt;a href=&quot;#题目解析：&quot; class=&quot;headerlink&quot; title=&quot;题目解析：&quot;&gt;&lt;/a&gt;题目解析：&lt;/h4&gt;&lt;p&gt;这题其实就是一个二维矩阵，给你一个编号，让你输出这个编号所在的位置&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://Mysteriousbird.github.io/tags/%E9%A2%98%E8%A7%A3/"/>
     
   </entry>
   
